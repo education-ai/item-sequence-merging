@@ -1,1 +1,1 @@
-# item-sequence-merging
+# Item Sequence Merging
